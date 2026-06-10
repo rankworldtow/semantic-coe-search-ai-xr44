@@ -1,4 +1,4 @@
-# 
+# Meilleur Semantic Code Search extensions. Avec intégration de base de données vectorielle et tests automatisés — optimisé pour des performances et une efficacité maximales.
 
 
 
